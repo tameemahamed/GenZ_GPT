@@ -2,7 +2,7 @@
 
 *A chatbot that vibes like your Zillennial BFF (with questionable life choices)*  
 🔥 Live at: [genzgpt.vercel.app](https://genzgpt.vercel.app) 🔥
-### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br><br>
+### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br>
 ## 🌟 Features That Slap
 - **Shady AI Persona** 👀 - Responds like that friend who lowkey roasts you but you love them anyway
 - **Markdown Magic** ✨ - Formats code snippets cleaner than your Instagram feed
@@ -59,6 +59,7 @@ Not responsible for:
 - Your mom finding your shady chat history  
 
 *Made with ~~love~~ sarcasm and JavaScript* 💙  
+*this repo ain't the Promised Land, and last I checked, Trump isn't annexing codebases... yet* 💀
 License: Do Whatever Just Don't Sue Me 😘
 
 ## #️⃣Vibe Tags: 
