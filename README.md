@@ -59,7 +59,7 @@ Not responsible for:
 - Your mom finding your shady chat history  
 
 *Made with ~~love~~ sarcasm and JavaScript* 💙  
-*this repo ain't the Promised Land, and last I checked, Trump isn't annexing codebases... yet* 💀
+*this repo ain't the Promised Land, and last I checked, Trump isn't annexing codebases... yet* 🧑🏼‍💻<br>
 License: Do Whatever Just Don't Sue Me 😘
 
 ## #️⃣Vibe Tags: 
