@@ -56,13 +56,11 @@ PRs accepted if:
 Not responsible for:  
 - Existential crises caused by AI roasts  
 - Code copied without proper attribution 😒  
-- Your mom finding your shady chat history
-
-## #️⃣Vibe Tags: 
-`#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
-### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸
+- Your mom finding your shady chat history  
 
 *Made with ~~love~~ sarcasm and JavaScript* 💙  
 License: Do Whatever Just Don't Sue Me 😘
 
-
+## #️⃣Vibe Tags: 
+`#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
+### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br><br>
