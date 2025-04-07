@@ -1,9 +1,5 @@
 # 🤖 GenZ GPT 👾 
 
-## #️⃣Vibe Tags: 
-`#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
-### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br><br>
-
 *A chatbot that vibes like your Zillennial BFF (with questionable life choices)*  
 🔥 Live at: [genzgpt.vercel.app](https://genzgpt.vercel.app) 🔥
 
@@ -60,7 +56,11 @@ PRs accepted if:
 Not responsible for:  
 - Existential crises caused by AI roasts  
 - Code copied without proper attribution 😒  
-- Your mom finding your shady chat history  
+- Your mom finding your shady chat history
+
+## #️⃣Vibe Tags: 
+`#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
+### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸
 
 *Made with ~~love~~ sarcasm and JavaScript* 💙  
 License: Do Whatever Just Don't Sue Me 😘
