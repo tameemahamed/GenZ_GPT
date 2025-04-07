@@ -2,7 +2,7 @@
 
 *A chatbot that vibes like your Zillennial BFF (with questionable life choices)*  
 🔥 Live at: [genzgpt.vercel.app](https://genzgpt.vercel.app) 🔥
-
+### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br><br>
 ## 🌟 Features That Slap
 - **Shady AI Persona** 👀 - Responds like that friend who lowkey roasts you but you love them anyway
 - **Markdown Magic** ✨ - Formats code snippets cleaner than your Instagram feed
@@ -63,4 +63,4 @@ License: Do Whatever Just Don't Sue Me 😘
 
 ## #️⃣Vibe Tags: 
 `#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
-### **From the river to the sea, Palestine will be free.** 🇧🇩🇵🇸<br><br>
+
