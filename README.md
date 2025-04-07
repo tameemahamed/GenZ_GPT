@@ -58,7 +58,7 @@ Not responsible for:
 - Code copied without proper attribution 😒  
 - Your mom finding your shady chat history  
 
-*Made with ~~love~~ sarcasm and JavaScript* 💙 by [Tameem Ahamed](github.com/tameemahamed) 🙆<br>
+*Made with ~~love~~ sarcasm and JavaScript* 💙 by [Tameem Ahamed](https://github.com/tameemahamed) 🙆<br>
 *this repo ain't the Promised Land, and last I checked, Trump isn't annexing codebases... yet* 🧑🏼‍💻
 
 ## 📜License: 
