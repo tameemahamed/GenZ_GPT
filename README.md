@@ -20,8 +20,8 @@
 ## 🚀 Quick Start (For Devs Who Can Handle the Truth)
 - Clone this repo (duh)
   ```bash
-  git clone https://github.com/tameemahamed/GenZ_Gpt.git
-  cd GenZ_Gpt
+  git clone https://github.com/tameemahamed/GenZ_GPT.git
+  cd GenZ_GPT
   ```
 - Replace `<API_KEY>` in `script.js` with actual DeepSeek key 🗝️
 - Deploy somewhere that isn't Heroku (RIP free tier)
@@ -58,12 +58,11 @@ Not responsible for:
 - Code copied without proper attribution 😒  
 - Your mom finding your shady chat history  
 
-*Made with ~~love~~ sarcasm and JavaScript* 💙  
+*Made with ~~love~~ sarcasm and JavaScript* 💙 by [Tameem Ahamed](github.com/tameemahamed) 🙆
 *this repo ain't the Promised Land, and last I checked, Trump isn't annexing codebases... yet* 🧑🏼‍💻
 
 ## 📜License: 
-Do Whatever Just Don't Sue Me 😘
-
+- Do Whatever Just Don't Sue Me 😘
 ## #️⃣Vibe Tags: 
 `#opensource` `#GenZGPT` `#AIWithAttitude` `#CodeSass` `#palestine` `#freepalestine` `#palestinewillbefree` `#gaza`  `#savegaza` 
 
